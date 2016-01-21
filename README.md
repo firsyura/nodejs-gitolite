@@ -1,4 +1,4 @@
-# nodejs-gitolite [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# nodejs-gitolite [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Managing gitolite repositories with node.js
 
 ## Installation
