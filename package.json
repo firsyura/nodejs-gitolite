@@ -1,6 +1,6 @@
 {
   "name": "nodejs-gitolite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Managing gitolite repositories with node.js",
   "homepage": "",
   "author": {
